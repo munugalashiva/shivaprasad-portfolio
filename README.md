@@ -67,7 +67,7 @@ I love collaborating in Agile teams, troubleshooting complex issues, and learnin
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/shivaprasad-reddy-05604024a/)
-- Email: *your email here*
+- Email: *munugalashiva10@gmail.com*
 
 ---
 
