@@ -1,37 +1,51 @@
 body {
-  font-family: 'Segoe UI', Arial, sans-serif;
-  margin: 0;
-  background: #f6f8fa;
+  font-family: 'Times New Roman', Times, serif;
+  background: #f5f5dc; /* beige */
   color: #222;
+  font-size: 12px;
+  margin: 0;
+  padding: 0;
 }
 
 header {
-  background: #224c8b;
-  color: #fff;
-  padding: 2rem 1rem 1rem 1rem;
+  background: #f5f5dc;
+  color: #808000; /* olive green */
   text-align: center;
+  padding: 1.5rem 1rem 1rem 1rem;
+}
+
+header h1 {
+  color: #808000; /* olive green */
+  font-size: 14px;
+  margin-bottom: 0.5rem;
 }
 
 header nav a {
-  color: #ffd700;
+  color: #808000; /* olive green */
   margin: 0 10px;
   text-decoration: none;
   font-weight: bold;
+  font-size: 12px;
 }
 
 main {
   max-width: 800px;
   margin: 2rem auto;
-  background: #fff;
+  background: #fffbe6;
   padding: 2rem;
   border-radius: 8px;
-  box-shadow: 0 2px 12px rgba(34, 76, 139, 0.07);
+  box-shadow: 0 2px 12px rgba(128, 128, 0, 0.07);
+}
+
+h2, h3 {
+  color: #808000; /* olive green */
+  font-size: 14px;
+  margin-top: 1.5rem;
 }
 
 h2 {
-  border-bottom: 2px solid #224c8b;
+  border-bottom: 1px solid #cfcf9f;
   padding-bottom: 0.2em;
-  margin-top: 2rem;
 }
 
 ul {
@@ -42,15 +56,16 @@ ul {
 .project {
   margin-bottom: 1.5rem;
   padding: 1rem;
-  border: 1px solid #eee;
+  border: 1px solid #e5e5b2;
   border-radius: 6px;
-  background: #f8fafc;
+  background: #fafad2;
 }
 
 footer {
   text-align: center;
   padding: 1.5rem 0;
-  background: #224c8b;
-  color: #fff;
+  background: #f5f5dc;
+  color: #808000;
+  font-size: 12px;
   margin-top: 2rem;
 }
